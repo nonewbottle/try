@@ -30,7 +30,7 @@ python app.py
 ```
 - The terminal will display a local URL, typically:
 ```bash
-[python app.py](http://127.0.0.1:5000)
+http://127.0.0.1:5000
 ```
 
 **4. Access the Application**
